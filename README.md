@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AXELXDEV
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning .. 
+- 🌱 I’m currently learning SQL, JAVA
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me
 Mail ✉️ - devilcheatskey@gmail.com
