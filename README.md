@@ -13,10 +13,9 @@
 ## Contact Me
 <p><a href="https://t.me/A_xe_l"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
 **
+<a href="https://open.spotify.com/user/31txneuqwbtl22rvopregisxsgqa"><img src="https://spotify-suraj.vercel.app/api/spotify"/></a>
 
-/AXELXDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a
-href="https://open.spotify.com/user/31txneuqwbtl22rvopregisxsgqa"><img src="https://spotify-AXELXDEV.vercel.app/api/spotify"/></a>
+/AXELXDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 - 👋 Hi, I’m @AXELXDEV
 - 😊 Country = 🇮🇳
