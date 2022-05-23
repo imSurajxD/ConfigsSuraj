@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDesiNobita&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAXELXDEVcount_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=DesiNobita&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=𓆩𝐀ᴋ𝐀s𝐇𓆪™+Github+Stats)](https://github.com/AXELXDEV)
 
