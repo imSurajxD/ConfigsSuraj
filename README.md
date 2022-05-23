@@ -15,8 +15,8 @@
 **
 
 /AXELXDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="https://open.spotify.com/user/31txneuqwbtl22rvopregisxsgqa"><img src="https://spotify-AXELXDEV.vercel.app/api/spotify"/></a>
+<a
+href="https://open.spotify.com/user/31txneuqwbtl22rvopregisxsgqa"><img src="https://spotify-AXELXDEV.vercel.app/api/spotify"/></a>
 
 - 👋 Hi, I’m @AXELXDEV
 - 😊 Country = 🇮🇳
